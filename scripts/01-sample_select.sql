@@ -1,0 +1,1 @@
+select count(id) from station_data_t sdt where debug_value = 'byLog'; 
